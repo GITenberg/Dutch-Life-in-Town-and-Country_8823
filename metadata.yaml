@@ -1,0 +1,20 @@
+_repo: Dutch-Life-in-Town-and-Country_8823
+creator:
+  author:
+    agent_name: Hough, P. M.
+    gutenberg_agent_id: '2895'
+    url: http://www.gutenberg.org/2009/agents/2895
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Social life and customs'
+- !lcc 'DJ'
+title: Dutch Life in Town and Country
+url: http://www.gutenberg.org/ebooks/8823
